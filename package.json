@@ -1,0 +1,23 @@
+{
+  "name": "vyasm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ishanv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyasishanatc194/vyasm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vyasishanatc194/vyasm/issues"
+  },
+  "homepage": "https://vyasishanatc194.github.io/ishanv",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
